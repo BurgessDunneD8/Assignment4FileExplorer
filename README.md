@@ -1,3 +1,3 @@
 # Assignment4FileExplorer
-arya peer
-Run FileSystem.java
+Arya Peer
+run FileSystem.java
